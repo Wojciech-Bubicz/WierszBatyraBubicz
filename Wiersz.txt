@@ -1,0 +1,5 @@
+wstañ()
+
+wypijKawe()
+
+jeœli kawa==dobra to programuj
