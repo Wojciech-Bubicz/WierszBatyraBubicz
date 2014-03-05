@@ -2,4 +2,6 @@ wstañDoJasnegoKrzaka()
 
 wypijKawe()
 
+zjedzChleb()
+
 jeœli kawa==sik to programuj
