@@ -2,4 +2,4 @@ wstañSerduszkoMojeKochane()
 
 wypijKaweKochanieMojeSliczne()
 
-jeœli kawa==dobra to programuj
+jeœli kawa==dobra to programuj i siê sslicznie uœmiechaj kotku :) :***
