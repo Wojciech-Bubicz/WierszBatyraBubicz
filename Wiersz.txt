@@ -1,5 +1,5 @@
-wstañ()
+wstañDoJasnegoKrzaka()
 
 wypijKawe()
 
-jeœli kawa==dobra to programuj
+jeœli kawa==sik to programuj
